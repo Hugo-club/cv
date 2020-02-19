@@ -18,6 +18,11 @@
 	text-align:center;
 } 
 
+#div2 h3 { 
+	color:black; 
+	font-size:22px;}
+
+
 #div2 h2 { 
 	color:black;
 	background-color:green; 
@@ -31,6 +36,10 @@
 	font-size:30px;
 	text-align:center;
 }
+
+#div3 h3 { 
+	color:black; 
+	font-size:22px;}
 
 #div4 h2 { 
 	color:black;
