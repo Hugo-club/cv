@@ -1,54 +1,61 @@
 
 
-#div6 {
+.div7 {
+	background-color:#FAE5D3;
+	padding-left: :10px;
+}
+
+
+
+.div6 {
 	text-align:center;
 }
 
 
 
 
-#div6 h2 p {
+.div6 h2 p {
 	padding:2px 3px 4px 3px;
 }
 
-#div1 h2 { 
+.div1 h2 { 
 	color:black;
 	background-color:green; 
 	font-size:30px;
 	text-align:center;
 } 
 
-#div2 h3 { 
+.div2 h3 { 
 	color:black; 
 	font-size:22px;}
 
 
-#div2 h2 { 
+.div2 h2 { 
 	color:black;
 	background-color:green; 
 	font-size:30px;
 	text-align:center;
 } 
 
-#div3 h2 { 
+.div3 h2 { 
 	color:black;
 	background-color:green; 
 	font-size:30px;
 	text-align:center;
 }
 
-#div3 h3 { 
+.div3 h3 { 
 	color:black; 
 	font-size:22px;}
 
-#div4 h2 { 
+.div4 h2 { 
 	color:black;
 	background-color:green; 
 	font-size:30px;
 	text-align:center;
 } 
 
-#div5 h2 { 
+.div5 h2 { 
 	color:black;
 	background-color:green; 
 	font-size:30px;
